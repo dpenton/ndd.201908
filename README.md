@@ -29,3 +29,5 @@ https://docs.microsoft.com/en-us/dotnet/architecture/microservices/implement-res
 
 Use Lamar for IoC needs:
 https://jasperfx.github.io/lamar/documentation/ioc/
+
+See the branches in this repo for the meeting code on Windows & Mac
