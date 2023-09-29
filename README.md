@@ -23,14 +23,10 @@ On mac
 * open Site
 
 Some explanations on why you should not dispose of HttpClient:
-```
 https://aspnetmonsters.com/2016/08/2016-08-27-httpclientwrong/
 https://medium.com/@nuno.caneco/c-httpclient-should-not-be-disposed-or-should-it-45d2a8f568bc
-```
 
 HttpClientFactory:
-```
 https://docs.microsoft.com/en-us/dotnet/architecture/microservices/implement-resilient-applications/use-httpclientfactory-to-implement-resilient-http-requests
-```
 
 See the branches in this repo for the meeting code on Windows & Mac
